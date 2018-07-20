@@ -10,8 +10,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.base4j</groupId>
-    <artifactId>base4j-common</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>base4j-service</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+
 
 </project>
